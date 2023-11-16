@@ -1,0 +1,80 @@
+.navbar-style {
+    margin-right: 18%;
+    margin-bottom: 50%;
+    margin-top: -39%;
+}
+
+.banner-image {
+    background-image: url("./assets/org.png");
+    background-size: 70% 40%;
+    background-repeat: no-repeat;
+    background-position: 99% 2%;
+    margin-top: -2px;
+    border-top-left-radius: 158px 121px;
+    border-bottom-left-radius: 80px 0px;
+}
+
+.logo-style {
+    width: 18%;
+    margin-left: 6%;
+    margin-top: 1%;
+}
+
+.banner-text-style {
+    margin-left: 6%;
+    margin-top: 25%;
+}
+
+.banner-text-style2 {
+    margin-left: 6%;
+}
+
+.banner-btn-style {
+    margin-left: 6%;
+    width: 12%;
+    background-color: #EF3A8B;
+    border-color: #EF3A8B;
+    border-radius: 20px;
+}
+
+.image2 {
+    width: 30%;
+    margin-left: 6%;
+    margin-bottom: 20%;
+
+}
+
+.b-text-2 {
+    margin-left: 45%;
+    margin-top: -58%;
+    width: 50%;
+}
+
+
+.b3-images {
+    margin-left: 15%;
+    margin-top: 21%;
+    background-color: #FFFFFF;
+}
+.img2 {
+
+
+}
+.imgz {
+    width: 70%;
+    margin-left: 341px;
+    margin-top: -72px;
+
+
+}
+.q1 {
+
+}
+.q3 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.q2 {
+    padding-left: 0px;
+    margin-right: -5px;
+}
